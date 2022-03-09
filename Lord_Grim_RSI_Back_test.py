@@ -1,7 +1,7 @@
 import ccxt
 import pandas as pd
 import pandas_ta as ta
-from Portfolio_class_def import *  # (important class that can be copied at eh top before (#1) or you can download the file to your python path/project)
+from portfolio_class_def import *  # (important class that can be copied at eh top before (#1) or you can download the file to your python path/project)
 import numpy as np
 import array
 import matplotlib.pyplot as plt
